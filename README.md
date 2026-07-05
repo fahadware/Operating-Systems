@@ -1,6 +1,6 @@
-# 🖥️ Operating Systems Lab – BCS-4K
+# 🖥️ Operating Systems 
 
-This repository contains my **Operating Systems Lab** assignments, tasks, source code, reports, and screenshots completed during the BCS-4K semester.
+This repository contains my **Operating Systems ** assignments, tasks, source code, reports, and screenshots completed during the BCS-4K semester.
 
 ## 👨‍🎓 Student Information
 
