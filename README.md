@@ -5,9 +5,8 @@ This repository contains my **Operating Systems Lab** assignments, tasks, source
 ## 👨‍🎓 Student Information
 
 - **Name:** Fahad Ali
-- **Roll Number:** 23P-0569
 - **Course:** Operating Systems Lab
-- **Class:** BCS-4K
+
 
 ---
 
